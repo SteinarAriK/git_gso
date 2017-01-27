@@ -7,3 +7,5 @@ Hvað eru gagnasöfn? Gagnasöfn eru staðirnir sem gögn eru geymd á. Alltaf þegar þ
 Gagnasafnskerfi:
 Hvað eru gagnasafnskerfi? Í stuttri lýsingu eru gagnasafnakerfi „Kerfi með vélbúnaði og hugbúnaði, notað til þess að skilgreina gagnasöfn, búa þau til, hafa eftirlit með þeim, stjórna þeim og nota þau.“ –orðabanki.hi.is 
 SQL er forrit sem er notað til að búa til gagnsafnakerfi.
+Færsla:
+Hvað eru færslur? Færsla er einfaldlega bara lína eða textaheild í gagnaskrá. Dæmi um færslu mynd vera „Halló“ eða „Hagkaup, þar sem Íslendingum finnst skemmtilegast að versla“.
