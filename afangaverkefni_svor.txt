@@ -9,3 +9,5 @@ Hvað eru gagnasafnskerfi? Í stuttri lýsingu eru gagnasafnakerfi „Kerfi með vélbú
 SQL er forrit sem er notað til að búa til gagnsafnakerfi.
 Færsla:
 Hvað eru færslur? Færsla er einfaldlega bara lína eða textaheild í gagnaskrá. Dæmi um færslu mynd vera „Halló“ eða „Hagkaup, þar sem Íslendingum finnst skemmtilegast að versla“.
+Skrá:
+Hvað er skrá? Skrá, einnig kölluð mappa virka eins og möppur gera venjulega. Skrár geyma ýmisskonar forrit, myndir og færslur. Hægt er að geyma skrá inní í annarri skrá og halda þannig áfram endalaust.
