@@ -13,3 +13,5 @@ Skrá:
 Hvað er skrá? Skrá, einnig kölluð mappa virka eins og möppur gera venjulega. Skrár geyma ýmisskonar forrit, myndir og færslur. Hægt er að geyma skrá inní í annarri skrá og halda þannig áfram endalaust.
 Skráarsnið:
 Hvað er skráarsnið? Það eru til margar tegundir af forritum og gögnum og öll hafa þau sitt starf. Til að skilgreina hvernig forrit forritið sem þú ert að vinna með er best að fara í möppuna og sjá á hverju forritsnafnið endar. T.d ef það endar á .txt er forritið textaskjal og .jpg ef það er mynd.
+Lokaorð:
+Í þessari stuttu færslu vona ég að þú hafir lært mikið. Takk fyrir mig og bless.
