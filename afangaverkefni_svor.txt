@@ -4,3 +4,6 @@ Gögn:
 Hvað eru gögn? Ég skal sko segja þér það, að gögn eru skrár sem hægt er að geyma og passa upp á á ýmsa vegu. Talað er um rafræn gögn, það eru gögn sem búin eru til í tölvu og geymd þar. Svo eru líka til stafræn gögn. Þau eru t.d myndbönd sem þú tekur upp með myndavél eða myndir sem þú tekur með sömu myndavélinni. Stafræn gögn eru svo floutt yfir í tölvu og geymd þar. Og að lokum er það klassíski pappírinn. Maður skrifar með blýant á blaðið og hægt er að geyma það hvar sem er.
 Gagnasöfn:
 Hvað eru gagnasöfn? Gagnasöfn eru staðirnir sem gögn eru geymd á. Alltaf þegar þú setur eitthvað á netið er það geymt einhverstaðar á stórum „server“. Harði diskurinn í tölvunni þinni er líka gagnasafn, þar sem hann geymir öll gögnin þín. Annað dæmi um gagnsafn er ískápurinn þinn! Hann geymir matinn þinn, sem eru gögn vegna þess að maturinn hefur upplýsingar um hvenær maturinn rennur út.
+Gagnasafnskerfi:
+Hvað eru gagnasafnskerfi? Í stuttri lýsingu eru gagnasafnakerfi „Kerfi með vélbúnaði og hugbúnaði, notað til þess að skilgreina gagnasöfn, búa þau til, hafa eftirlit með þeim, stjórna þeim og nota þau.“ –orðabanki.hi.is 
+SQL er forrit sem er notað til að búa til gagnsafnakerfi.
